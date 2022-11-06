@@ -5,7 +5,7 @@ This post i have shown how we can use react(state mangmenet) and react redux(to 
 ### `Demo`
 
 Runs the app in the development mode.\
-Open [https://react-agmptq.stackblitz.io/](https://react-agmptq.stackblitz.io/) to view it in your browser.
+Open [https://react-yuccp8.stackblitz.io/](https://react-yuccp8.stackblitz.io/) to view it in your browser.
 
 ## Available Scripts
 
