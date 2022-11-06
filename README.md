@@ -1,7 +1,7 @@
-# Shopping cart basic filter
+# React Redux simple counter example
 
 # Summary
-This post i have shown how we can filter data in ascending and descending order and reset.This is for absolutly beginner. 
+This post i have shown how we can use react(state mangmenet) and react redux(to connect with react app) .This is for absolutly beginner. 
 ### `Demo`
 
 Runs the app in the development mode.\
